@@ -26,7 +26,7 @@ Shader "Custom/Diffuse With Light Probes Final"
                 o.vertex = UnityObjectToClipPos(vertex_data.vertex);
                 o.uv = vertex_data.texcoord;
                 o.worldNormal = UnityObjectToWorldNormal(vertex_data.normal);
-                o.worldPos = mul(unity_ObjectToWorld, vertex_data.vertex).xyz;
+                //o.worldPos = mul(unity_ObjectToWorld, vertex_data.vertex).xyz;
                 return o;
             }
 

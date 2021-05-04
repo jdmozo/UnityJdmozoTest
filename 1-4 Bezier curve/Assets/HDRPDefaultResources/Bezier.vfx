@@ -77,7 +77,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":0.0,"y":5.0,"z":0.0}'
+      m_SerializableObject: '{"x":0.0,"y":5.019999980926514,"z":0.0}'
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -2950,7 +2950,7 @@ MonoBehaviour:
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 41, y: 716}
+  m_UIPosition: {x: 81, y: 806}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -4435,7 +4435,7 @@ MonoBehaviour:
     linkedSlots:
     - outputSlot: {fileID: 8926484042661614792}
       inputSlot: {fileID: 8926484042661614661}
-    position: {x: -230, y: 620}
+    position: {x: -227, y: 577}
     expandedSlots: []
     expanded: 0
 --- !u!114 &8926484042661614792
@@ -4466,7 +4466,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":0.0,"y":5.0,"z":0.0}'
+      m_SerializableObject: '{"x":0.0,"y":5.019999980926514,"z":0.0}'
     m_Space: 2147483647
   m_Property:
     name: o

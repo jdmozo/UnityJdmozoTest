@@ -1,0 +1,2 @@
+D:\Users\jdmozo\Documents\Github\UnityJdMozoTest\1-5 Prefabs\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Users\jdmozo\Documents\Github\UnityJdMozoTest\1-5 Prefabs\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
